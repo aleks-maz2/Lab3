@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <locale.h>
 #include <math.h>
-
+//A
 int main()
 {
 	int b,c;
